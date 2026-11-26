@@ -3,3 +3,4 @@ Allow: /
 
 Sitemap: https://andrewham1lton.github.io/giving-credit/sitemap.xml
 Sitemap: https://andrewham1lton.github.io/simmer-down/sitemap.xml
+Sitemap: https://andrewham1lton.github.io/lowlight/sitemap.xml
